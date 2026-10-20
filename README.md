@@ -8,6 +8,12 @@
 
 <br/>
 
+<a href="https://stevenmoses.me"><img src="https://img.shields.io/badge/portfolio-stevenmoses.me-f2b84b?style=flat-square&labelColor=14213d" alt="Portfolio: stevenmoses.me" /></a>
+<a href="https://www.linkedin.com/in/steven-moses-oo7/"><img src="https://img.shields.io/badge/linkedin-steven--moses-f2b84b?style=flat-square&logo=linkedin&logoColor=f5e6c8&labelColor=14213d" alt="LinkedIn" /></a>
+<a href="https://x.com/TechSnow7"><img src="https://img.shields.io/badge/x-@TechSnow7-f2b84b?style=flat-square&logo=x&logoColor=f5e6c8&labelColor=14213d" alt="X: @TechSnow7" /></a>
+
+<br/>
+
 <a href="https://github.com/StevenSteel7?tab=followers"><img src="https://img.shields.io/github/followers/StevenSteel7?label=followers&style=flat-square&color=f2b84b&labelColor=14213d" alt="Followers" /></a>
 <a href="https://github.com/StevenSteel7/OnePort/stargazers"><img src="https://img.shields.io/github/stars/StevenSteel7/OnePort?label=oneport&style=flat-square&color=f2b84b&labelColor=14213d" alt="OnePort stars" /></a>
 <a href="https://github.com/StevenSteel7/OnePort/releases"><img src="https://img.shields.io/github/v/release/StevenSteel7/OnePort?include_prereleases&label=latest&style=flat-square&color=f2b84b&labelColor=14213d" alt="OnePort release" /></a>
@@ -126,4 +132,5 @@ pace:       slow and steady, mostly after dark
 
 <br/>
 
-<p align="center"><sub>lamp's still on · thanks for stopping by</sub></p>
+<p align="center"><sub>lamp's still on · thanks for stopping by<br/>
+<a href="https://stevenmoses.me">stevenmoses.me</a> · <a href="https://www.linkedin.com/in/steven-moses-oo7/">linkedin</a> · <a href="https://x.com/TechSnow7">x</a></sub></p>
